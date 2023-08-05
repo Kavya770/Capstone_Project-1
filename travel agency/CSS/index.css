@@ -1,0 +1,395 @@
+#main{
+	width:900px;
+	height:3100px;
+	background-color:skyblue;
+}
+.travel{
+	height:500px;
+	width:900px;
+	background-image: url('../Images/landscape.jpg');
+	padding:240px 100px 30px 80px;
+}
+.travel1{
+	height:200px;
+	width:350px;
+	float:left;
+}
+.travel2{
+	height:200px;
+	width:350px;
+	float:right;
+}
+#h21{
+	color:rgb(255, 209, 26);
+	font-size: 30px;
+}
+#p1{
+	font-style:italic;
+	color:white;
+}
+#h31{
+	color:white;
+	font-size:20px;
+
+}
+input{
+	border:1px solid lightgray;
+	background-color: transparent;
+	padding:5px 150px 5px 5px;
+}
+textarea{
+	border:1px solid lightgray;
+	background-color: transparent;
+	padding:5px 150px 5px 5px;
+	padding-bottom:50px;
+}
+input[type="submit"]{
+	color:white;
+	background-color: rgb(255, 204, 0);
+	border-color:rgb(255, 204, 0);
+	border-radius: 2px;
+	padding:5px 10px;
+}
+.about{
+	height:300px;
+	width:900px;
+	background-color: ghostwhite;
+	padding:20px 50px 20px 80px;
+	position:relative;
+}
+.about1{
+	height:240px;
+	width:230px;
+	float:left;
+	color:darkslategray;
+	padding-right:10px;
+}
+#h22{
+	color:rgb(255, 230, 128);
+}
+.about2{
+	height:240px;
+	width:230px;
+	padding-top:70px;
+	float:left;
+	color:darkslategray;
+}
+button{
+	color:white;
+	padding:5px;
+	background-color: rgb(255, 219, 77);
+	border-color:rgb(255, 219, 77);
+}
+img[src="Images/sunrise.jpg"]{
+	height:230px;
+	width:250px;
+    position:absolute;
+    top:30px;
+    right:70px;
+}
+.icons{
+	padding:20px 80px 20px 80px;
+	height:300px;
+	width:900px;
+	font-size:10px;
+	background-color: black;
+}
+.icons1{
+	height:80px;
+	width:740px;
+}
+#h32{
+	font-size:30px;
+	color:rgb(255, 209, 26);
+	text-align:center;
+}
+#p2{
+	text-align: center;
+	color:white;
+	line-spacing:2px;
+}
+.icons2{
+	height:200px;
+	width:740px;
+	line-spacing:1.8px;
+}
+.amazing{
+	height:150px;
+	width:150px;
+	float:left;
+	color:white;
+	margin:10px 20px;
+	text-align:center;
+}
+.discover{
+	height:150px;
+	width:150px;
+	float:left;
+	color:white;
+	margin:10px 20px;
+	text-align:center;
+}
+.booking{
+	height:150px;
+	width:150px;
+	float:left;
+	color:white;
+	margin:10px 20px;
+	text-align:center;
+}
+.support{
+	height:150px;
+	width:150px;
+	float:left;color:white;
+	color:white;
+	margin:10px 0px 10px 20px;
+	text-align:center;
+}
+.h33{
+	font-size: 20px;
+}
+i{
+	font-size: 30px;
+	color: #d3649f
+}
+.p3{
+	font-style: italic;
+	size:15px;
+}
+.Details{
+	height:300px;
+	width:900px;
+	background-image: url('../images/package.jpg');
+	padding:80px 100px;
+	position:relative;
+}
+#h34{
+	color:rgb(255, 209, 26);
+	size:30px;
+}
+#p4{
+	color:white;
+	font-size:12px;
+}
+#p5{
+	color:white;
+}
+#detailsbutton{
+	color:white;
+	background-color:rgb(255, 204, 0);
+	border-color:rgb(255, 204, 0);
+	padding:2px 10px;
+	position:absolute;
+	top:120px;
+	right:180px;
+}
+#highlights{
+	height:500px;
+	width:900px;
+	background-color: ghostwhite;
+	padding:40px 50px;
+}
+#popular{
+	height:60px;
+	width:800px;
+	text-align: center;
+	margin-bottom:20px;
+}
+#h35{
+	color:rgb(255, 204, 0);
+	font-size:20px;
+
+}
+#p6{
+	font-size:12px;
+	color:darkgray;
+	line-spacing:1.8px;
+}
+#places{
+	height:330px;
+	width:800px;
+}
+#bahamas{
+	height:330px;
+	width:240px;
+	float:left;
+	margin:10px;
+	position:relative;
+	background-color: white;
+}
+img[src="images/bahamas.jpg"]{
+	height:150px;
+	width:240px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.h41{
+	padding-left:10px;
+}
+.p7{
+	color:darkgray;
+	font-size:12px;
+	font-style:italic;
+	padding-left:10px;
+}
+#goa{
+	height:330px;
+	width:240px;
+	float:left;
+	margin:10px;
+	position:relative;
+	background-color: white;
+}
+img[src="images/goa.jpg"]{
+	height:150px;
+	width:240px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+
+#bali{
+	height:330px;
+	width:240px;
+	float:left;
+	margin:10px;
+	position:relative;
+	background-color: white;
+}
+img[src="images/bali.jpg"]{
+	height:150px;
+	width:240px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#quotation{
+	background-image: url('../images/quotation.jpg');
+	height:500px;
+	width:900px;
+	text-align:center;
+	color:white;
+	padding:80px 100px;
+}
+#h42{
+	color:rgb(230, 184, 0);
+}
+#styles{
+	height:300px;
+	width:900px;
+	padding:0px 250px;
+	background-color:white;
+	position:relative;
+}
+img[src="images/pic1.jpg"]{
+	height:150px;
+	width:150px;
+	position:absolute;
+	top:0px;
+	left:250px;
+}
+img[src="images/pic2.jpg"]{
+	height:150px;
+	width:150px;
+	position:absolute;
+	top:0px;
+	left:500px;
+}
+img[src="images/pic3.jpg"]{
+	height:150px;
+	width:150px;
+	position:absolute;
+	top:150px;
+	left:250px;
+}
+img[src="images/pic4.jpg"]{
+	height:150px;
+	width:150px;
+	position:absolute;
+	top:150px;
+	left:500px;
+}
+#modern{
+	height:400px;
+	width:900px;
+	background-image: url('../images/bg.jpg');
+	padding:60px 50px;
+}
+#vacation{
+	height:280px;
+	width:190px;
+	background-color: white;
+	position:relative;
+	float:left;
+	margin-right:10px;
+}
+img[src="images/vacation.jpg"]{
+	height:170px;
+	width:190px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#h36{
+	padding-left:10px;
+	float:left;
+	margin-right:10px;
+}
+#buttontag{
+	color:white;
+	background-color:rgb(255, 204, 0);
+	border-color:rgb(255, 204, 0);
+	margin-left: 10px;
+	padding:5px;
+}
+#cruises{
+	height:280px;
+	width:190px;
+	background-color: white;
+	position:relative;
+	float:left;
+	margin-right:10px;
+}
+img[src="images/cruises.jpg"]{
+	height:170px;
+	width:190px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#honeymoons{
+	height:280px;
+	width:190px;
+	background-color: white;
+	position:relative;
+	float:left;
+	margin-right:10px;
+}
+img[src="images/honeymoons.jpg"]{
+	height:170px;
+	width:190px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+#wedding{
+	height:280px;
+	width:190px;
+	background-color: white;
+	position:relative;
+	float:left;
+}
+img[src="images/wedding.jpg"]{
+	height:170px;
+	width:190px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+*{
+	box-sizing: border-box;
+	padding:0px;
+	margin:0px;
+
+}
